@@ -1,0 +1,261 @@
+<?php 
+
+	include "header.php"
+
+?>
+
+
+
+
+
+
+ <!--================ Start Banner Area =================-->
+ <section class="banner_area">
+        <div class="banner_inner d-flex align-items-center">
+            <div class="container">
+                <div class="banner_content text-center">
+                    <h2>About Us</h2>
+                    <div class="page_link">
+                        <a href="index.html">Home</a>
+                        <a href="about.html">About</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--================ End Banner Area =================-->
+    
+   <!--================ Start About Us Area =================-->
+    <section class="about_area section_gap">
+        <div class="container">
+            <div class="row justify-content-start align-items-center">
+                <div class="col-lg-5">
+                    <div class="about_img">
+                        <img class="" src="img/about-us.png" alt="">
+                    </div>
+                </div>
+
+                <div class="offset-lg-1 col-lg-5">
+                    <div class="main_title text-left">
+                        <h2>let’s <br>
+                            Introduce about <br>
+                            myself</h2>
+                        <p>
+                            My Name is Pravin Ashok potadar 
+                        </p>
+                        <p>
+                            I'm Styduing in 
+                            Fabtech Technical Campus College Of Engineering & Reserch Sangola
+                            B.tech in T.Y 
+                            Computr Science & Engineering
+
+                            
+                        </p>
+                        <a class="primary_btn" href="Q:\Web Class Template Modification\satner-master\Resume\Resume.pdf"><span>Download CV</span></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--================ End About Us Area =================-->
+
+	<!--================ Srart Brand Area =================-->
+	<section class="brand_area section_gap_bottom">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-lg-6">
+                    <div class="row">
+                        <div class="col-lg-4 col-md-4 col-sm-6">
+                            <div class="single-brand-item d-table">
+                                <div class="d-table-cell text-center">
+                                    <!-- <img src="img/brands/logo1.png" alt=""> -->
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-4 col-sm-6">
+                            <div class="single-brand-item d-table">
+                                <div class="d-table-cell text-center">
+                                    <!-- <img src="img/brands/logo2.png" alt=""> -->
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-4 col-sm-6">
+                            <div class="single-brand-item d-table">
+                                <div class="d-table-cell text-center">
+                                    <!-- <img src="img/brands/logo3.png" alt=""> -->
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-4 col-sm-6">
+                            <div class="single-brand-item d-table">
+                                <div class="d-table-cell text-center">
+                                    <!-- <img src="img/brands/logo4.png" alt=""> -->
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-4 col-sm-6">
+                            <div class="single-brand-item d-table">
+                                <div class="d-table-cell text-center">
+                                    <!-- <img src="img/brands/logo5.png" alt=""> -->
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-4 col-sm-6">
+                            <div class="single-brand-item d-table">
+                                <div class="d-table-cell text-center">
+                                    <!-- <img src="img/brands/logo6.png" alt=""> -->
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-4 col-sm-6">
+                            <div class="single-brand-item d-table">
+                                <div class="d-table-cell text-center">
+                                    <!-- <img src="img/brands/logo7.png" alt=""> -->
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-4 col-sm-6">
+                            <div class="single-brand-item d-table">
+                                <div class="d-table-cell text-center">
+                                    <!-- <img src="img/brands/logo8.png" alt=""> -->
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-4 col-sm-6">
+                            <div class="single-brand-item d-table">
+                                <div class="d-table-cell text-center">
+                                    <!-- <img src="img/brands/logo9.png" alt=""> -->
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="offset-lg-2 col-lg-4 col-md-6">
+                    <div class="client-info">
+                        <div class="d-flex mb-50">
+                            <span class="lage">-</span>
+                            <span class="smll">Fresher Working</span>
+                        </div>
+                        <div class="call-now d-flex">
+                            <div>
+                                <span class="fa fa-phone"></span>
+                            </div>
+                            <div class="ml-15">
+                                <p>call us now</p>
+                                <h3>(+91) xxx xxx xxxx</h3>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--================ End Brand Area =================-->
+
+	<!--================ Start Testimonial Area =================-->
+	<div class="testimonial_area section_gap_bottom">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-lg-8 text-center">
+                    <div class="main_title">
+                        <h2>client say about me</h2>
+                        <p>Is give may shall likeness made yielding spirit a itself togeth created after sea is in beast <br>
+                                beginning signs open god you're gathering ithe</p>
+                    </div>
+                </div>
+            </div>
+           <!--  <div class="row">
+                <div class="testi_slider owl-carousel">
+                    <div class="testi_item">
+                        <div class="row">
+                            <div class="col-lg-4">
+                                <img src="img/testimonials/t1.jpg" alt="">
+                            </div>
+                            <div class="col-lg-8">
+                                <div class="testi_text">
+                                    <h4>Elite Martin</h4>
+                                    <p>Him, made can't called over won't there on divide there male fish beast own his day third seed sixth seas unto. Saw from </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="testi_item">
+                        <div class="row">
+                            <div class="col-lg-4">
+                                <img src="img/testimonials/t2.jpg" alt="">
+                            </div>
+                            <div class="col-lg-8">
+                                <div class="testi_text">
+                                    <h4>Davil Saden</h4>
+                                    <p>Him, made can't called over won't there on divide there male fish beast own his day third seed sixth seas unto. Saw from </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="testi_item">
+                        <div class="row">
+                            <div class="col-lg-4">
+                                <img src="img/testimonials/t1.jpg" alt="">
+                            </div>
+                            <div class="col-lg-8">
+                                <div class="testi_text">
+                                    <h4>Elite Martin</h4>
+                                    <p>Him, made can't called over won't there on divide there male fish beast own his day third seed sixth seas unto. Saw from </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="testi_item">
+                        <div class="row">
+                            <div class="col-lg-4">
+                                <img src="img/testimonials/t2.jpg" alt="">
+                            </div>
+                            <div class="col-lg-8">
+                                <div class="testi_text">
+                                    <h4>Davil Saden</h4>
+                                    <p>Him, made can't called over won't there on divide there male fish beast own his day third seed sixth seas unto. Saw from </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="testi_item">
+                        <div class="row">
+                            <div class="col-lg-4">
+                                <img src="img/testimonials/t1.jpg" alt="">
+                            </div>
+                            <div class="col-lg-8">
+                                <div class="testi_text">
+                                    <h4>Elite Martin</h4>
+                                    <p>Him, made can't called over won't there on divide there male fish beast own his day third seed sixth seas unto. Saw from </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="testi_item">
+                        <div class="row">
+                            <div class="col-lg-4">
+                                <img src="img/testimonials/t2.jpg" alt="">
+                            </div>
+                            <div class="col-lg-8">
+                                <div class="testi_text">
+                                    <h4>Davil Saden</h4>
+                                    <p>Him, made can't called over won't there on divide there male fish beast own his day third seed sixth seas unto. Saw from </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div> -->
+        </div>
+    </div>
+    <!--================ End Testimonial Area =================-->
+    
+    
+
+
+	<?php
+	
+	include  "footer.php"
+	
+	?>
+
